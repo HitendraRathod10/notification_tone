@@ -50,7 +50,7 @@ class NotificationService {
     );
 
     const DarwinNotificationDetails iosDetails = DarwinNotificationDetails(
-      sound: 'ka_ching.mp3',
+      sound: 'ka_ching.aiff',
       presentBadge: true,
       presentSound: true,
       presentAlert: true,
